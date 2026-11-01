@@ -15,17 +15,17 @@ Here is the live interface demonstrating quantum circuit state evaluation across
 
 ### 1. Quantum State Vector & Execution Engine (Class 1 Output)
 <p align="center">
-  <img src="assets/qml-dashboard-class1" alt="QML Dashboard Class 1 Output" width="90%"/>
+  <img src="assets/qml-dashboard-class1.png" alt="QML Dashboard Class 1 Output" width="90%"/>
 </p>
 
 ### 2. Parameter Tuning & Real-time Inference (Class 0 Output)
 <p align="center">
-  <img src="assets/qml-dashboard-class0" alt="QML Dashboard Class 0 Output" width="90%"/>
+  <img src="assets/qml-dashboard-class0.png" alt="QML Dashboard Class 0 Output" width="90%"/>
 </p>
 
 ### 3. Interactive Probability Superposition Spectrum
 <p align="center">
-  <img src="assets/interactive-spectrum" alt="Interactive Probability Spectrum Plotly" width="90%"/>
+  <img src="assets/interactive-spectrum.png" alt="Interactive Probability Spectrum Plotly" width="90%"/>
 </p>
 
 ---
